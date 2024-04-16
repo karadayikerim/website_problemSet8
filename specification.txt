@@ -1,0 +1,25 @@
+HTML:
+1- <div> -> I used div as a container.
+2- <p> -> I used p for paragraphs.
+3- <h1> -> I used h1 for page descriptions
+4- <ul> -> For navigation bar
+5- <a> -> For hyperlinks
+6- <span> -> To be able to style single words
+7- <button> -> For search purposes
+8- <article> -> Container for paragraphs and other contents
+9- <header> -> Container for header
+10- <footer> -> Container for footer
+
+CSS:
+1- display:flex -> It's a key for responsive pages
+2- justify-content: center -> To center elements
+3- list-style-type: none -> To get rid of ugly dots from lists
+4- border: 0.5px -> To add a border
+5- padding: 1rem -> To add spaces inside the containers
+
+JavaScript and Bootstrap:
+I used JavaScript for search button. To check if the input is whether empty or not.
+I used Bootstrap a lot alongside the website. I used it for navigation bar, search bar, accordion, buttons, dropdown menu.
+
+ionicons:
+I used ionicons for icons.

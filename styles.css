@@ -1,0 +1,120 @@
+header{
+  display: block;
+}
+h1.page-description{
+    font-size: 1rem;
+    height: auto;
+    background-color: #456899;
+    border-radius: 5px;
+    color: #fff;
+    padding: 1rem ;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 10px;
+  }
+
+.nav-icon {
+    margin-right: 0.25rem;
+}
+
+.dropdown-item, a.nav-link{
+    display: flex;
+    align-items: center;
+}
+
+ul.social-main{
+  padding: 0;
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  margin: unset;
+  justify-content: center;
+}
+
+ul.social-main li{
+  padding: 0.25rem;
+}
+
+
+.cs50{
+  color: #CC223C;
+}
+
+.container{
+  max-width: 1100px;
+}
+.main-content{
+  border: 0.5px solid #CCD0D5;
+  border-radius: 5px;
+  padding: 3rem;
+  margin-top: 1rem;
+  
+}
+
+.main-content .content{
+  display: flex;
+  align-items: center;
+}
+
+.main-content .projects{
+  align-items: center;
+}
+
+.main-content .myprojects{
+  display: block;
+}
+
+.my-photo{
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  padding: 1rem;
+}
+
+.first-part p.right{
+  padding-right: 1rem;
+  font-size: 1.05rem;
+  border-right: 0.5px solid #CCD0D5;
+}
+
+.second-part p.left{
+  padding-left: 1rem;
+  font-size: 1.05rem;
+  border-left: 0.5px solid #CCD0D5;
+}
+
+
+h5.article-title span{
+  display: inline;
+  border-bottom: 2px solid #1d1d1c;
+}
+
+.footer-content{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: auto;
+  text-align: center;
+  padding: 1rem;
+  height: auto;
+  margin-top: 20px;
+  font-weight: 700;
+  color:#fff;
+}
+
+.for-mobile{
+  display: none;
+}
+
+h4.map-contact{
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 0.5px solid #08101b;
+  margin-left: 1rem;
+}
+
+ul.address{
+  list-style: none;
+  font-style: italic;
+}
